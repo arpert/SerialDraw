@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialDraw", "..\SerialDraw\SerialDraw.csproj", "{91335A11-E116-43CC-8E80-9C7CE7E5D39B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBA}") = "Data2Serial", "..\Data2Serial\Data2Serial.csproj", "{BE9A80B5-6133-4ADC-B70A-12E6D1B99F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91335A11-E116-43CC-8E80-9C7CE7E5D39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91335A11-E116-43CC-8E80-9C7CE7E5D39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91335A11-E116-43CC-8E80-9C7CE7E5D39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91335A11-E116-43CC-8E80-9C7CE7E5D39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9A80B5-6133-4ADC-B70A-12E6D1B99F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9A80B5-6133-4ADC-B70A-12E6D1B99F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9A80B5-6133-4ADC-B70A-12E6D1B99F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9A80B5-6133-4ADC-B70A-12E6D1B99F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
